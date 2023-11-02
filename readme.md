@@ -65,7 +65,6 @@ The program allows you to block specific websites and IP addresses. By default, 
 ## Dependencies
 
 - Xlib (Linux only)
-- libcurl
 - Boost (boost.system)
 - GTK+ 3 (Linux only)
 
